@@ -6,7 +6,6 @@
 
 
 # COVID-19 global analysis dashboard
-Multi-page Power BI report
 
 ## Project overview
 This project is an analytical dashboard built in Power BI using global COVID-19 data from Our World in Data OWID. The goal was to complete an end-to-end workflow - data acquisition, cleaning and feature engineering in Python, additional preparation in Power Query, data modeling, DAX measures and interactive visualizations in Power BI.
