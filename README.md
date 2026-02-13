@@ -1,3 +1,10 @@
+![Overview](<img width="1578" height="899" alt="4" src="https://github.com/user-attachments/assets/5949c530-ca6e-4bca-9cb1-041098852962" />)
+![Cases](<img width="1578" height="898" alt="3" src="https://github.com/user-attachments/assets/0175ccd3-2027-4442-80d8-f9e9c4dd8a05" />)
+![Deaths](<img width="1579" height="901" alt="2" src="https://github.com/user-attachments/assets/501827fb-a93c-4b45-a5d5-abe60dfdb853" />)
+![Vaccinations](<img width="1574" height="907" alt="1" src="https://github.com/user-attachments/assets/c51a907b-33b1-49b2-a0cd-83def34b23ce" />)
+![Details](<img width="1574" height="905" alt="5" src="https://github.com/user-attachments/assets/3a558512-d348-4b59-9f9f-463dfa7cfedc" />)
+
+
 # COVID-19 global analysis dashboard
 Multi-page Power BI report
 
